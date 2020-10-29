@@ -1,3 +1,6 @@
+<?php
+	echo "this is a php thing!";
+?> 
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -18,8 +21,9 @@
   <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>	
 </head>
 <body>	
-	<?php
-		echo "this is a php thing!";
-	?> 
+	dsf gsdf
+	g dgf
+	 df gdfg 
+	df gdsfg 
 </body>
 </html>
